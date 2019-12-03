@@ -1,0 +1,277 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0px;
+}
+nav div.container ul li.nav-item a.nav-link{
+	color:  #0088cc;
+}
+nav div.container ul li.nav-item a.nav-link:hover{
+	border-bottom:3px solid  #0088cc;
+	color:  #0088cc;
+}
+section div.row {
+	    max-width: 315px;
+    margin: 0 auto;
+    padding: 20px 0 20px;
+}
+section div.row a img{
+	vertical-align: middle;
+}
+section div.row a img.logo{
+	    display: block;
+    line-height: 0;
+    text-decoration: none;
+
+    width: 128px;
+    height: 128px;
+    margin: 0 auto;
+}
+section div.row a img.logo2{
+	    display: block;
+    margin: 0 auto;
+}
+section div.row a p.logo3{
+	    font-size: 20px;
+    line-height: 148%;
+    max-width: 285px;
+    margin: 0 auto;
+    color: #8c8c8c;
+    text-align: center;
+    padding: 1px 0 10px;
+}
+section div.row div.right{
+	 position: absolute;
+    margin-top: 20px;
+    right: 200px;
+    background: none;
+    padding: 5px 17px;
+    margin: 0 0 17px 26px;
+    border-left: 5px solid #179cde;
+    font-size: 12px;
+    width: 180px;
+}
+section div.row div.right1{
+    display: block;
+    color: #0088cc;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 15px;
+       
+}
+section div.row div.right2 a.right21{
+    display: block;
+    margin-top: 10px;
+    color: #0088cc;
+    
+}
+section div.row div.right a.right21 div.right22{
+color: #000;
+    font-weight: bold;
+}
+section div.row div.right a.right21 div.right23{
+	color: #0088cc;
+}
+section div.row2{
+	   
+    max-width: 1028px;
+        margin: 0 auto;
+}
+section div.row2 a.row21{
+	width: 28.21%;
+	   min-width: 245px;
+     text-align: center;
+    display: inline-block;
+    height: 290px;
+    padding-bottom: 20px;
+    margin: 40px 0;
+    font-size: 15px;
+    max-width: 100%;
+    color: #0088cc;
+    text-decoration: none;
+}
+section div.row2 a.row21 i.icon{
+    background-position: 0 -46px;
+    height: 23px;
+    margin-top: -3px;
+   text-align: center;
+        margin-right: 10px
+}
+
+section div.row2 a.row22{
+	    width: 42%;
+    min-width: 350px;
+        text-align: center;
+    display: inline-block;
+    height: 290px;
+    padding-bottom: 20px;
+    margin: 40px 0;
+    font-size: 15px;
+    max-width: 100%;
+     text-decoration: none;
+}
+section div.row2 a.row22 i.icon{
+background-position: 0 0px;
+    height: 26px;
+    margin-top: -5px;
+        margin-right: 10px;
+        text-align: center;    
+  }
+  section div.row2 a.row23{
+  	 width: 28.793774%;
+    min-width: 245px;
+     text-align: center;
+    display: inline-block;
+    height: 290px;
+    padding-bottom: 20px;
+    margin: 40px 0;
+    font-size: 15px;
+    max-width: 100%;
+     text-decoration: none;
+  }
+  section div.row2 a.row23 i.icon{
+  	    background-position: 0 -90px;
+    height: 20px;
+    margin-top: -1px;
+        vertical-align: text-top;
+            margin-right: 10px;
+              text-align: center;  
+  }
+  section div.row3 h3.row31{
+	    color: #222222;
+    font-size: 23px;
+    font-weight: 500;
+        text-align: center;
+            margin-top: 32px;
+    margin-bottom: 10px;
+        margin: 20px 0 10px 0;
+    position: relative;
+  }
+div.bottom div.bottom1{
+	float: left;
+	width:30%;
+	    margin-left: 380px;
+}
+div.bottom div.bottom2{
+	float: left;
+}
+.clear{
+	clear: both;
+}
+
+div.mainbody div.card1 h3.mainbody_header{
+	    color: #222222;
+    font-size: 23px;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 30px;
+        margin-bottom: 10px;
+            margin: 20px 0 10px 0;
+    position: relative;
+}
+div.mainbody div.card2 h3.mainbody_header2{
+    color: #222222;
+    font-size: 23px;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 20px;
+        margin-bottom: 10px;
+        position: relative;
+}
+div.mainbody div.card1 div.card11{
+	    width: 33%;
+	    float: left;
+	        position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+div.mainbody div.card1 div.card111{
+	max-width: 260px;
+    margin: 0 auto;
+    padding: 20px 0 9px;
+}
+section div.mainbody div.card1 img.mainlogo1{
+background-size: 160px 160px;
+    width: 160px;
+    height: 160px;
+    margin: 0 auto;
+}
+section div.mainbody div.card1 h3.maintext1{
+	color: #a19679;
+    text-align: center;
+    margin: 15px 0 6px;
+    font-size: 26px;
+    font-weight: normal;
+    letter-spacing: -1px;
+}
+section div.mainbody div.card1 div.mainstrong1{
+	    font-size: 15px;
+    line-height: 158%;
+    text-align: center;
+}
+
+div.mainbody div.card2 div.card21{
+	    width: 33%;
+	    float: left;
+	        position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+div.mainbody div.card2 div.card211{
+	max-width: 260px;
+    margin: 0 auto;
+    padding: 20px 0 9px;
+}
+section div.mainbody div.card2 img.mainlogo2{
+background-size: 160px 160px;
+    width: 160px;
+    height: 160px;
+    margin: 0 auto;
+}
+section div.mainbody div.card2 h3.maintext1{
+	color: #a19679;
+    text-align: center;
+    margin: 15px 0 6px;
+    font-size: 26px;
+    font-weight: normal;
+    letter-spacing: -1px;
+}
+section div.mainbody div.card2 div.mainstrong1{
+	    font-size: 15px;
+    line-height: 158%;
+    text-align: center;
+}
+.clearfix{
+	height: 50px;
+	clear: both;
+}
+footer div.footer_columns_wrap{
+	    padding-left: 0;
+    padding: 0 0 0 63px;
+    margin: 0
+}
+footer div.footer_column_telegram{
+	    width: 290px;
+    padding-right: 50px;
+    float: left;
+    font-size: 13px;
+}
+footer div.footer_column{
+	float: left;
+    padding-right: 78px;
+    font-size: 15px;
+
+}
+footer div.footer_column_platform{
+	padding-right: 0;
+}
+footer div.footer_column a{
+	text-decoration: none;
+}
+footer div.footer_column ul li{
+	list-style: none;
+}
